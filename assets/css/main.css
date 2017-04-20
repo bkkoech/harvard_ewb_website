@@ -2586,6 +2586,18 @@
 				width: 100%;
 			}
 
+				.image.fit.corp-sponsor{
+					max-width: 300px;
+					margin-right:auto;
+					margin-left:auto;
+				}
+
+				.image.fit.uni-sponsor{
+					max-width: 500px;
+					margin-right:auto;
+					margin-left:auto;
+				}
+
 		.image.profile {
 			display: block;
 			margin: 2em 0 2em 0;
