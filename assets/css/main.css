@@ -2618,6 +2618,16 @@
 				width: 100%;
 			}
 
+
+		.image.header {
+			width: 100%;
+			z-index: 0;
+		}
+
+			.image.header img {
+				width: 100%;
+			}
+
 	a.image {
 		overflow: hidden;
 	}
